@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
 
-<body>
-  <h2>Aysha Hamdard</h2>
-</body>
+<head>
+<title>Aysha Hamdard</title>
+</head>
 
 <body>
+
+<h2>Aysha Hamdard</h2>
 
 <h2>About Me</h2>
 
