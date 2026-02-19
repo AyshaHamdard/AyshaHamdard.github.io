@@ -1,6 +1,15 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+<title>Aysha Hamdard</title>
+</head>
 
-<h2>Aysha Hamdard</h2>
+<body>
+
+<h1>Aysha Hamdard</h1>
+
+<h2>About Me</h2>
 
 <table border="1">
 <tr>
@@ -18,3 +27,6 @@
 <td>Programming, presentations, building websites</td>
 </tr>
 </table>
+
+</body>
+</html>
