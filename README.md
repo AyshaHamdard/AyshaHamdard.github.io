@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-<title>Aysha Hamdard</title>
-</head>
-
-<body>
-
-<h1>Aysha Hamdard</h1>
-
-<h2>About Me</h2>
 
 <table border="1">
 <tr>
