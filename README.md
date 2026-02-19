@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-table {
-  border-collapse: collapse;
-  width: 50%;
-}
-td, th {
-  border: 1px solid black;
-  padding: 8px;
-}
-</style>
-</head>
-
-<body>
-
 <h2>About Me</h2>
 
 <table>
