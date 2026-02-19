@@ -4,8 +4,6 @@
 
 <h2>Aysha Hamdard</h2>
 
-<h2>About Me</h2>
-
 <table border="1">
 <tr>
 <th>Name</th>
