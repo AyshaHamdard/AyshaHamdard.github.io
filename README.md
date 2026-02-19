@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>My Website</title> <!-- optional, browser tab text -->
-</head>
 <body>
 
 <h2>About Me</h2>
