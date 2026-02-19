@@ -1,7 +1,5 @@
 
 
-<body>
-
 <h2>Aysha Hamdard</h2>
 
 <table border="1">
@@ -20,6 +18,3 @@
 <td>Programming, presentations, building websites</td>
 </tr>
 </table>
-
-</body>
-</html>
